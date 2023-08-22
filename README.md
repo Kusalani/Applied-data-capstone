@@ -11,5 +11,7 @@ bid against SpaceX for a rocket launch.
 The problems included: 
 
 • Identifying all factors that influence the landing outcome.
+
 • The relationship between each variables and how it is affecting the outcome. 
+
 • The best condition needed to increase the probability of successful landing.
